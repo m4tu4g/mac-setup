@@ -38,7 +38,7 @@ Bottom Right : _Application Windows_
 `brew install --cask brave-browser`
 
 ## Firefox
-[Take control of your internet](www.firefox.com/en-US/)
+[Take control of your internet](https://www.firefox.com/en-US/)
 
 `brew install --cask firefox`
 
@@ -103,7 +103,7 @@ My Raycast config
 - [DataGrip](https://www.jetbrains.com/datagrip/)
 
 ## Docker
-[Accelerated Container Application Development](www.docker.com)
+[Accelerated Container Application Development](https://www.docker.com)
 
 ### Core Engine (Daemon)
 `brew install docker`
