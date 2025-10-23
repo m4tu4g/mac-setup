@@ -110,3 +110,8 @@ My Raycast config
 
 ### [Docker Desktop: The #1 containerization software for developers and teams](https://www.docker.com/products/docker-desktop/)
 `brew install --cask docker-desktop`
+
+(or)
+
+### [OrbStack · Fast, light, simple Docker & Linux](https://orbstack.dev/)
+`brew install --cask orbstack`
